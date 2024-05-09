@@ -1,2 +1,2 @@
 # VennDiagram
-Testing a package
+This is an experiment on the "ggVennDiagram" package of R.
